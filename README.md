@@ -116,7 +116,7 @@ Built as a team project during the Python & AI Internship at Genplus Training & 
 
 Md Furhan Pasha, Rakshith Krishna Murthy, Ajith B, **Seema N C**, Gokul Adithya, Diya Dadheech, Disha S Reddy
 
-My contribution: NLP Processing and Feature Engineering modules.
+My contribution: NLP Processing , Feature Engineering modules and API handling
 
 ## Future Improvements
 
@@ -126,4 +126,4 @@ My contribution: NLP Processing and Feature Engineering modules.
 
 ## Author
 
-**Seema N C** · [GitHub](https://github.com/Seema-N-C) · LinkedIn: [add your link]
+**Seema N C** · [GitHub](https://github.com/Seema-N-C) 
